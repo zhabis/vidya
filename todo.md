@@ -9,7 +9,7 @@
   //   aggregate(seed, f)
   //test performance in browser
 
-## zhee core
+## Vidya core
 
 - Strings - screenname ischar etc...
 - Localizer - add phones

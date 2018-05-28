@@ -1,0 +1,19 @@
+{
+  "name": "vidya",
+  "version": "0.0.1",
+  "main": "vidya",
+  "description": "Vidya Core Package", 
+  "license": "MIT",
+  "contributors":[{
+    "name":  "Dmitriy Khmaladze aka Zhabis, Ximik, itadapter, Rogognil",
+    "email": "d@zhabis.com",
+    "url":   "http://zhabis.io"
+  }],
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/zhabis/vidya.git"
+  },
+  "dependencies":{
+    
+  }
+}

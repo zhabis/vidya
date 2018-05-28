@@ -1,0 +1,1 @@
+# Vidya.js Core Package
