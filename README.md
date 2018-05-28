@@ -22,7 +22,7 @@ transpile for a borader audience (see WebPack Babel setup scripts).
 The cutting edge Java Script Library engineered around ES6 - ECMA2017:
 
 * Classes - "classic" OOP; convenient paradigm for business/data centric complex apps
-* Asynchronous Flows / Promisses  (async/await); forget callback hell and focus on algorithmic sequence
+* Asynchronous Flows / Promises  (async/await); forget callback hell and focus on algorithmic sequence
 * Iterable + Deferred execution a-la LINQ (influenced by .NET framework); work with complex data models with almost no code
 * Generators; awesome feature for gradual execution (paired with Iterable)
 * Symbols, string literals etc..; things that just make sense!
