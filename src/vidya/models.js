@@ -99,7 +99,7 @@ export class Base{
    * @returns {Promise<boolean>} True if valid
    */
   async validate(target, force = false){
-    if (this.m_validated && !force) return this.valid();
+    if (this.m_validated && !force) return this.valid;
 
     try{
       await this._doValidate(target, force);
